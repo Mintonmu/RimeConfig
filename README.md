@@ -1,5 +1,5 @@
 # RimeConfig
-My Mac rime config files
+My Mac [rime](https://rime.im/) config files
 
 ## 主要增加模块
 
