@@ -1,2 +1,2 @@
 # RimeConfig
-My rime config files
+My Mac rime config files
